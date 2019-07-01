@@ -19,16 +19,16 @@ post("BzRIu3_lsev");
 ```
 
 ### Profile
-⋅⋅* Instagram ID
-⋅⋅* Profile Picture (HD)
-⋅⋅* Follower count
-⋅⋅* Following count
-⋅⋅* Biography
-⋅⋅* Total posts
-⋅⋅* Last 9 Posts
++ Instagram ID
++ Profile Picture (HD)
++ Follower count
++ Following count
++ Biography
++ Total posts
++ Last 9 Posts
 ### Post
-⋅⋅* Likes Count
-⋅⋅* Comment Count
-⋅⋅* Caption
-⋅⋅* Media Link
-⋅⋅* Last 10 Comments
++ Likes Count
++ Comment Count
++ Caption
++ Media Link
++ Last 10 Comments
