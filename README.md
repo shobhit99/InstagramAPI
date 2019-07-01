@@ -9,7 +9,7 @@ profile("username");
 ```php
 post("shortcode");
 ```
-##Example
+## Example
 ```php
 <?php
 include 'instagram.php';
