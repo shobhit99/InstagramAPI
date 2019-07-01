@@ -20,7 +20,7 @@ post("BzRIu3_lsev");
 
 ### Profile
 + Instagram ID
-+ Profile Picture (HD)
++ Profile Picture
 + Follower count
 + Following count
 + Biography
