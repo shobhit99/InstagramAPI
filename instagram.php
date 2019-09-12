@@ -72,4 +72,4 @@ function post($code){
         return 0;
     }
 }
-header('Content-Type: application/json');
+#header('Content-Type: application/json');
