@@ -14,6 +14,11 @@ post("shortcode");
 <?php
 include 'instagram.php';
 echo profile("9gag");
+?>
+```
+```php
+<?php
+include 'instagram.php';
 echo post("BzRIu3_lsev");
 ?>
 ```
